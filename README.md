@@ -450,4 +450,4 @@ This advanced SQL project successfully demonstrates my ability to solve real-wor
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and derive business decision making.
 
 ## **Entity Relationship Diagram (ERD)**
-![ERD]
+![ERD](https://github.com/Shilpi460/amazon_sql_project/blob/main/Screenshot%202024-10-22%20180532.png)
