@@ -13,7 +13,7 @@ An ERD diagram is included to visually represent the database schema and relatio
 ### **Schema Structure**
 -- The database contain **8 tables**: 'customers','sellers','products','orders','order_items','inventory','payments' and 'shipping'.
 -- These tables are designed with **primary keys**, **foreign key constraints**, and proper indexing to maintain data integrity and optimize query performance.
--- You can find the SQL script for setting up the database schema [here]
+-- You can find the SQL script for setting up the database schema [here](https://github.com/Shilpi460/amazon_sql_project)
 
 ---
 
