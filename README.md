@@ -432,7 +432,7 @@ The primary objective of this project is to showcase SQL proficiency through com
 
 ---
 
-## ** Learning Outcomes**
+## **Learning Outcomes**
 
 This project enabled me:
 - Design and implement a normalized database schema.
