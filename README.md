@@ -319,6 +319,7 @@ LIMIT 10;
 '''
 
 19.Final task: Create a function as soon as the product is sold the same quantity should recuced from inventory table, after adding any sales records it should update the stock in the inventory table based on product and qty purchased.
+
 '''sql
 CREATE OR REPLACE PROCEDURE add_sales
 (
