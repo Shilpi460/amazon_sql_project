@@ -282,6 +282,7 @@ JOIN orders o USING (order_id)
 JOIN order_items oi USING (order_id)
 GROUP BY 1;
 '''
+
 18. Top 10 product with highest decreasing revenue compare to last year (2023) and current_year(2024)
 '''sql
 WITH last_year_sales
@@ -316,6 +317,7 @@ WHERE
 ORDER BY 5 DESC
 LIMIT 10;
 '''
+
 19.Final task: Create a function as soon as the product is sold the same quantity should recuced from inventory table, after adding any sales records it should update the stock in the inventory table based on product and qty purchased.
 '''sql
 CREATE OR REPLACE PROCEDURE add_sales
