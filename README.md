@@ -35,7 +35,8 @@ I cleaned dataset by:
 ## **Identifying Business Problems**
 
 Key business problems identified:
-1. Top selling products: Top 10 products by total sales values
+1. Top selling products:
+   Top 10 products by total sales values:
 
 '''sql
 SELECT
